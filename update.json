@@ -3,12 +3,12 @@
     "readme": "1.0.2-版本",
     "update": "update link",
     "install": "install link",
-    "version": "1.0.2"
+    "version": "1.0.1"
   },
   "darwin-x64-prod": {
     "readme": "1.0.2-版本",
     "update": "update link",
     "install": "install link",
-    "version": "1.0.2"
+    "version": "1.0.1"
   }
 }
